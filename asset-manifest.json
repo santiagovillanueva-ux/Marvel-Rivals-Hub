@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Marvel-Rivals-Hub/static/css/main.df89f3ce.css",
+    "main.js": "/Marvel-Rivals-Hub/static/js/main.127eb16b.js",
+    "index.html": "/Marvel-Rivals-Hub/index.html",
+    "main.df89f3ce.css.map": "/Marvel-Rivals-Hub/static/css/main.df89f3ce.css.map",
+    "main.127eb16b.js.map": "/Marvel-Rivals-Hub/static/js/main.127eb16b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df89f3ce.css",
+    "static/js/main.127eb16b.js"
+  ]
+}
